@@ -21,7 +21,9 @@ This project demonstrates a resilient, self-healing, and auto-scaling web server
 
 All setup steps with screenshots are included in the PDF below:
 
-👉 [Download screenshots.pdf](./Resilient Web Server which can auto heal and expand itself.pdf)
+👉 [Download PDF](./Resilient%20Web%20Server%20which%20can%20auto%20heal%20and%20expand%20itself.pdf)
+
+
 
 ---
 
